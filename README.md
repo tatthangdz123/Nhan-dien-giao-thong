@@ -122,7 +122,7 @@ Hệ thống sử dụng kiến trúc ba tầng:
 
 4. ⚡ **Chạy hệ thống**
    ```bash
-   python nhandien.py
+   python DetectVehicle.py
    ```
 ## 🚀 Bắt đầu
 
