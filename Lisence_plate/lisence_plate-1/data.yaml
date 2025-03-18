@@ -1,0 +1,12 @@
+names:
+- lisence_plate
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: lisence_plate-kwxxx
+  url: https://universe.roboflow.com/thang-azynm/lisence_plate-kwxxx/dataset/1
+  version: 1
+  workspace: thang-azynm
+test: ../test/images
+train: ../train/images
+val: ../valid/images

@@ -1,0 +1,16 @@
+names:
+- BUS
+- CAR
+- MOTORBIKE
+- TRAFFIC_LIGHT
+- TRUCK
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: vehicle_dataset-04axq
+  url: https://universe.roboflow.com/thang-azynm/vehicle_dataset-04axq/dataset/1
+  version: 1
+  workspace: thang-azynm
+test: ../test/images
+train: ../train/images
+val: ../valid/images
