@@ -103,8 +103,8 @@ Hệ thống sử dụng kiến trúc ba tầng:
 ### ⚙️ Thiết lập Dự án
 1. 📦 **Sao chép Kho lưu trữ**
    ```bash
-   git clone https://github.com/tatthangdz123/tatthangdz123-tatthangdz123-Phat-hien-vi-pham-giao-thong-va-nhan-dien-bien-so-su-dung-Yolov8-va-OCR.git
-   cd tatthangdz123-tatthangdz123-Phat-hien-vi-pham-giao-thong-va-nhan-dien-bien-so-su-dung-Yolov8-va-OCR
+    git clone https://github.com/tatthangdz123/Nhan-dien-giao-thong.git
+   cd Nhan-dien-giao-thong
    ```
 
 2. 🌟 **Cài đặt Các Phụ thuộc**
