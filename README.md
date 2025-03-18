@@ -20,14 +20,6 @@
   <strong>Hệ thống Phát hiện xe vi phạm vượt đèn đỏ tích hợp công nghệ AI và thị giác máy tính, giúp giám sát giao thông và nhận diện phương tiện một cách tự động. Dự án sử dụng YOLOv8 để phát hiện phương tiện, nhận diện biển số bằng OCR (EasyOCR, Tesseract), và phân loại đèn tín hiệu bằng xử lý ảnh HSV. Dữ liệu vi phạm được lưu trữ trong MongoDB để phục vụ phân tích và báo cáo.🚦📸</strong>
 </p>
 
-<p align="center">
-  <a href="#-architecture">Kiến trúc</a> •
-  <a href="#-key-features">Tính năng</a> •
-  <a href="#-tech-stack">Công nghệ</a> •
-  <a href="#-installation">Cài đặt</a> •
-  <a href="#-getting-started">Bắt đầu</a> •
-  <a href="#-documentation">Tài liệu</a>
-</p>
 
 ## 🏗️ Kiến trúc
 
