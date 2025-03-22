@@ -156,4 +156,5 @@ Hệ thống sử dụng kiến trúc ba tầng:
 7. **Video Output**: Xuất video kết quả với các đối tượng được đánh dấu.
 
 </div>
+<h1>POSTER PROJECT</h1>
 <img src="poster.png" alt="Logo AIoTLab"/>
