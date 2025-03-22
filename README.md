@@ -20,7 +20,6 @@
   <strong>Hệ thống Phát hiện xe vi phạm vượt đèn đỏ tích hợp công nghệ AI và thị giác máy tính, giúp giám sát giao thông và nhận diện phương tiện một cách tự động. Dự án sử dụng YOLOv8 để phát hiện phương tiện, nhận diện biển số bằng OCR (EasyOCR, Tesseract), và phân loại đèn tín hiệu bằng xử lý ảnh HSV. Dữ liệu vi phạm được lưu trữ trong MongoDB để phục vụ phân tích và báo cáo.🚦📸</strong>
 </p>
 
-
 ## 🏗️ Kiến trúc
 
 <p align="center">
@@ -95,7 +94,7 @@ Hệ thống sử dụng kiến trúc ba tầng:
 ### ⚙️ Thiết lập Dự án
 1. 📦 **Sao chép Kho lưu trữ**
    ```bash
-    git clone https://github.com/tatthangdz123/Nhan-dien-giao-thong.git
+   git clone https://github.com/tatthangdz123/Nhan-dien-giao-thong.git
    cd Nhan-dien-giao-thong
    ```
 
@@ -122,7 +121,7 @@ Hệ thống sử dụng kiến trúc ba tầng:
 
 4. ⚡ **Chạy hệ thống**
    ```bash
-   python DetectVehicle.py
+   python nhandien.py
    ```
 ## 🚀 Bắt đầu
 
@@ -157,3 +156,4 @@ Hệ thống sử dụng kiến trúc ba tầng:
 7. **Video Output**: Xuất video kết quả với các đối tượng được đánh dấu.
 
 </div>
+<img src="poster.png" alt="Logo AIoTLab"/>
