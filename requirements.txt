@@ -1,0 +1,8 @@
+pymongo
+easyocr
+ultralytics
+opencv-python
+numpy
+pytesseract
+ipython
+roboflow
